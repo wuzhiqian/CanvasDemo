@@ -23,6 +23,10 @@
 
            <include layout="@layout/area_canvas_view"/>
 
+
+
+           <include layout="@layout/translatecanvas_view"/>
+
        </LinearLayout>
    </ScrollView>
 </RelativeLayout>
